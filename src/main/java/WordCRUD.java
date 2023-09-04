@@ -1,12 +1,11 @@
 import java.io.*;
-import java.nio.Buffer;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class WordCRUD implements ICRUD{
     static ArrayList<Word> list;
     Scanner s;
-    static final String fname = "Dictionary.txt";
+    static final String fname = "src/main/Dictionary.txt";
 
     WordCRUD(Scanner s){
         list = new ArrayList<>();
