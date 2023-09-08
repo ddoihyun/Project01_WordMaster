@@ -1,8 +1,13 @@
+package com.mycom.word;
+
+import com.mycom.word.ICRUD;
+import com.mycom.word.Word;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class WordCRUD implements ICRUD{
+public class WordCRUD implements ICRUD {
     static ArrayList<Word> list;
     Scanner s;
     static final String fname = "src/main/Dictionary.txt";

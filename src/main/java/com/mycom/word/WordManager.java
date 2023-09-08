@@ -1,3 +1,7 @@
+package com.mycom.word;
+
+import com.mycom.word.WordCRUD;
+
 import java.io.IOException;
 import java.util.Scanner;
 
