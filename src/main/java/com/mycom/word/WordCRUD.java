@@ -150,7 +150,7 @@ public class WordCRUD implements ICRUD {
     // 7. 파일 저장하기 기능
     public void saveFile() throws IOException {
         try{
-            PrintWriter pr =  new PrintWriter(new FileWriter("test.txt")); // 파일 name에 fname 입력
+            PrintWriter pr =  new PrintWriter(new FileWriter(fname)); // 파일 name에 fname 입력
             for(Word one : list){
                 pr.write(one.toFileString() + "\n");}
             System.out.println("==> 데이터 저장 완료 !!!");
