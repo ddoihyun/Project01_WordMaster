@@ -13,8 +13,8 @@
 
 #### _1. 모든 단어 보기 기능_ 
 
-![1번기능](screenshots/1번기능.png)
-![1번기능](screenshots/1번기능_1.png)
+![1번기능](.//screenshots//1번기능.png)
+![1번기능](.//screenshots//1번기능_1.png)
 <br/><br/>
 
 #### _2. 수준별 단어 보기 기능_
