@@ -15,7 +15,7 @@
 2|conscious|의식하는, 자각하는
 2|overkill|지나침, 과잉
 2|stroll|거닐다, 산책하다
-1|stock|주식, 재고
+1|stock|주식 , 재고
 2|eye-opener|눈이 휘둥그레질 만한 사건, 놀라운 경험
 1|graceful|우아한
 2|seagull|갈매기
@@ -31,3 +31,4 @@
 1|scatter|흩뿌리다, 살포하다
 1|proceed|진행하다[되다]
 1|reputation|평판, 명성
+2| electric field|전기장
