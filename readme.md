@@ -23,7 +23,7 @@
 3.	java.util.Scanner: 데이터를 읽기 위한 클래스. next(), nextInt(), nextLine()과 같은 method를 사용하여 다양한 데이터 유형을 읽는다.<br/>
   i.	Word 객체를 저장하는 List라는 이름의 ArrayList 객체 선언<br/>
 <br/>
-####	프로그램에서 새로 만든 Java class / Interface 목록과 설명<br/>
+#### 프로그램에서 새로 만든 Java class / Interface 목록과 설명<br/>
 1.	ICRUD : CRUD를 위한 interface<br/>
 2.	Word : 데이터클래스<br/>
 3.	WordCRUD : ICRUD interface 구현제<br/>
